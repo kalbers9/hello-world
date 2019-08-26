@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//1st test at using gitGub to eventually do version control for Outpost code
+//wish me luck!!
+
 public class GitHubTest1 : MonoBehaviour {
 
 	// Use this for initialization
