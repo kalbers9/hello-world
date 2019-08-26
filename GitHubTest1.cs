@@ -5,6 +5,8 @@ using UnityEngine;
 //1st test at using gitGub to eventually do version control for Outpost code
 //wish me luck!!
 
+//here is the first code edit <---
+
 public class GitHubTest1 : MonoBehaviour {
 
 	// Use this for initialization
